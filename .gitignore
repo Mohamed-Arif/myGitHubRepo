@@ -1,0 +1,14 @@
+# compiled output and generated docs
+bin/
+*.class
+doc/
+# IDE settings
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
